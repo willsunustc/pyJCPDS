@@ -3,8 +3,12 @@ To extend the python codebase for the rudimentary JCPDS database (http://comptec
 
 Note:Still under development.
 
-Required packages:
-numpy
-pandas
-matplotlib
-pymatgen
+##Required packages:
+
+`numpy`
+
+`pandas`
+
+`matplotlib`
+
+`pymatgen`
