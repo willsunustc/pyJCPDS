@@ -6,4 +6,5 @@ Note:Still under development.
 ## Required packages:
 `numpy` `pandas` `matplotlib` `pymatgen` `PyQt5`
 
+## References
 ds_jcpds(modules used): S.-H. Shim (2017) PeakPo - A python software for X-ray diffraction analysis at high pressure and high temperature. Zenodo. http://doi.org/10.5281/zenodo.810199
