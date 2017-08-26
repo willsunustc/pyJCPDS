@@ -5,6 +5,12 @@ Our project webpage: https://github.com/willsunustc/pyJCPDS
 
 Note:Still under development.
 
+![](assets/README-79d19c97.png)
+![](assets/README-4195c52c.png)
+![](assets/README-510dbfbf.png)
+![](assets/README-b7745932.png)
+![](assets/README-d2b6c7e4.png)
+
 ## Required packages
 `numpy` `pandas` `matplotlib` `pymatgen` `PyQt5`
 
