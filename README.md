@@ -5,11 +5,11 @@ Our project webpage: https://github.com/willsunustc/pyJCPDS
 
 Note:Still under development.
 
-![](assets/README-79d19c97.png)
-![](assets/README-4195c52c.png)
-![](assets/README-510dbfbf.png)
-![](assets/README-b7745932.png)
-![](assets/README-d2b6c7e4.png)
+![pyJCPDS GUI](assets/README-79d19c97.png)
+![pyJCPDS GUI](assets/README-4195c52c.png)
+![pyJCPDS GUI](assets/README-510dbfbf.png)
+![pyJCPDS GUI](assets/README-b7745932.png)
+![pyJCPDS GUI](assets/README-d2b6c7e4.png)
 
 ## Required packages
 `numpy` `pandas` `matplotlib` `pymatgen` `PyQt5`
